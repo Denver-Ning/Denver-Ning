@@ -18,5 +18,5 @@ It takes incredible strength and courage to be different from everybody else.
   
 </div>
 
-
+![](https://github-readme-stats.vercel.app/api?username=Denver-Ning)
 

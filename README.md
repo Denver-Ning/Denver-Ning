@@ -2,4 +2,4 @@
 
 Hope for better and better!
 
-blog(https://shuaining.xyz/)
+[blog](https://shuaining.xyz/)
